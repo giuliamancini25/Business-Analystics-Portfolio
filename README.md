@@ -74,9 +74,9 @@ University of Central Florida
 
 ## 📬 Contact
 
-- 📧 [giuliamancini25@outlook.com](mailto:giuliamancini25@outlook.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/giuliamancini25)  
-- 🌐 [Resume](#) *(optional)*
+- Email: giuliamancini25@outlook.com 
+- LinkedIn: https://www.linkedin.com/in/giuliamancini25
+- Resume: https://giuliamancini25.github.io/Giulia-Mancini-BA-Resume.pdf
 
 ---
 
