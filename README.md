@@ -1,14 +1,16 @@
 # Giulia Mancini – Business & Data Analyst Portfolio
 
----
+## About
 
-## 📄 About
+Hi, I’m Giulia Mancini
 
-Hi, I’m Giulia — a data-driven Business Analytics graduate passionate about transforming raw data into meaningful insights. Through my Master's program at UCF and hands-on project experience, I’ve built dashboards, analyzed trends, and helped make smarter business decisions using tools like SQL, Power BI, Python, and Excel.
+I’m a Master’s student in Business Analytics at the University of Central Florida, with a background in Integrated Business from UCF as well. My undergraduate program helped me develop strong soft skills — especially in presenting, problem-solving, and working across teams — while my graduate studies have focused on building technical strengths in SQL, Python, Excel, Tableau, and Power BI.
 
-In my free time, I enjoy exploring new analytics tools, building dashboards, and continuously sharpening my technical and communication skills.
+Throughout my academic journey, I’ve had the opportunity to work in a variety of hands-on roles across marketing, analytics, and education. These experiences have helped me apply what I’ve learned in real-world settings — from managing marketing events and building dashboards to analyzing student performance data and identifying strategic business opportunities.
 
----
+I’m currently in the final semester of my program, working on my capstone project, where I’m applying the technical and communication skills I’ve developed to analyze the impact of policy changes using real-world data.
+
+Thanks for stopping by, I’m excited to share some of the projects I’ve worked on and the insights I’ve uncovered.
 
 ## 📁 Table of Contents
 
