@@ -22,12 +22,9 @@ Thanks for stopping by, I’m excited to share some of the projects I’ve worke
 
 ## Portfolio Projects
 
-###  Python
+### Capstone Project
 
-#### **Sales Performance Analysis**
-- **Goal:** Identify seasonal trends and product/category performance using a retail dataset  
-- **Skills:** pandas, matplotlib, seaborn, feature engineering  
-- **Results:** Discovered summer underperformance in the Southeast region and top-performing products by segment
+###  Python
 
 ###  SQL
 
@@ -37,11 +34,6 @@ Thanks for stopping by, I’m excited to share some of the projects I’ve worke
 - **Results:** Built dashboard showing price and availability trends by borough to inform hosting strategy
 
 ### Power BI / Excel
-
-#### **Healthcare Revenue Dashboard**
-- **Goal:** Visualize billing and claim data across multiple clinics  
-- **Tools:** Excel, Power BI  
-- **Results:** Identified $150K+ in potential revenue loss due to bad debt coding and streamlined reporting for leadership
 
 #### **Student Data Trends – GTA**
 - **Goal:** Track academic performance across semesters  
