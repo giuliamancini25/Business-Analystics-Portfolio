@@ -31,14 +31,14 @@ Thanks for stopping by, I’m excited to share some of the projects I’ve worke
 
 ### SQL / Python
 
-#### [**Customer & Order Database Integration – STA5735**](./Customer&Order_Database_Integration.ipynb)  
+#### [**Customer & Order Database Integration**](./Customer&Order_Database_Integration.ipynb)  
 - **Goal:** Populate a relational SQLite database from CSVs to analyze customer purchases and product sales  
 - **Tools:** Python (Pandas, SQLite3), SQL  
 - **Results:** Built and queried a multi-table database to extract customer order history, compute lifetime value, and summarize product-level sales volume
 
 ### Python/ Machine Learning
 
-#### [**Shark Attack Analysis – STA5735**](./Shark_Attack_Analysis.ipynb)  
+#### [**Shark Attack Analysis**](./Shark_Attack_Analysis.ipynb)  
 - **Goal:** Predict attack activity and victim age from global shark incident data  
 - **Tools:** Python (Pandas, Scikit-learn, Matplotlib)  
 - **Results:** Built models to classify swimming activity (AUC reported) and predict age (MSE reported); identified top predictors of incident type
