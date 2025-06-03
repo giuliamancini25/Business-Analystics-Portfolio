@@ -84,7 +84,7 @@ Feel free to reach out, I’d love to connect!
 
 - Email: [giuliamancini25@outlook.com](mailto:giuliamancini25@outlook.com)  
 - LinkedIn: [@giuliamancini](https://www.linkedin.com/in/giuliamancini25)  
-- Resume: [View Resume]([https://giuliamancini25.github.io/Giulia-Mancini_Resume.pd](https://github.com/giuliamancini25/Business-Analystics-Portfolio/blob/main/Giulia-Mancini_Resume.pdf)f)  
+- Resume: [View Resume](https://github.com/giuliamancini25/Business-Analystics-Portfolio/blob/main/Giulia-Mancini_Resume.pdf)  
 
 
 
