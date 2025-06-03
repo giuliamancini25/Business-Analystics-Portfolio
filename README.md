@@ -24,18 +24,35 @@ Thanks for stopping by, I’m excited to share some of the projects I’ve worke
 
 ### Capstone Project
 
-###  Python
+#### **I-94 Arrivals & U.S. Policy Changes – Capstone (In Progress)**  
+- **Goal:** Analyze how major U.S. policy changes have impacted international arrivals using I-94 travel data  
+- **Tools:** Python, Pandas, Matplotlib, Statsmodels (Interrupted Time Series Regression)  
+- **Results (Planned):** Currently drafting the outline. The project will evaluate arrival patterns before and after events like the 2017 travel ban, COVID-19 restrictions, and recent 2025 shifts. The aim is to detect statistically significant changes by region and visa type, helping inform future policy analysis and travel forecasting.
 
-###  SQL
+### SQL / Python
+
+#### **Customer & Order Database Integration**  
+- **Goal:** Populate a relational SQLite database from CSVs to analyze customer purchases and product sales  
+- **Tools:** Python (Pandas, SQLite3), SQL  
+- **Results:** Built and queried a multi-table database to extract customer order history, compute lifetime value, and summarize product-level sales volume
+
+### Python/ Machine Learning
+
+#### **Shark Attack Analysis**  
+- **Goal:** Predict attack activity and victim age from global shark incident data  
+- **Tools:** Python (Pandas, Scikit-learn, Matplotlib)  
+- **Results:** Built models to classify swimming activity (AUC reported) and predict age (MSE reported); identified top predictors of incident type
+
+### Tableau
 
 #### **Airbnb NYC Market Analysis**
 - **Goal:** Analyze Airbnb listings by price, location, and room type to uncover neighborhood trends  
 - **Tech:** SQL (SQLite), Tableau, Excel  
 - **Results:** Built dashboard showing price and availability trends by borough to inform hosting strategy
 
-### Power BI / Excel
+### Excel
 
-#### **Student Data Trends – GTA**
+#### **Student Data Trends – GTA - In process**
 - **Goal:** Track academic performance across semesters  
 - **Tools:** Excel, Power BI  
 - **Results:** Visualized key performance indicators for 1,000+ students and supported instructional adjustments
